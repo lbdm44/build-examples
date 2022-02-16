@@ -1,0 +1,13 @@
+{
+  "name": "parcel-web-app",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.3.1"
+  }
+}
